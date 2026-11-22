@@ -77,4 +77,4 @@ Proyecto basado en [Tacto, de Felipe Roa y Santiago Gaete](https://github.com/fe
 
 El nombre **A 12 pasos de la gloria** concentra el concepto en la espera previa a un disparo decisivo. Se conserva la dificultad de la V3, evaluada en pruebas con el teléfono, y se revisó la mezcla: golpes más definidos, ambiente menos invasivo, tonos agudos suavizados y carga sonora espaciada para evitar superposiciones. Los ocho WAV siguen siendo sonidos originales sintetizados. La comunicación MQTT, el QR y el control de audio permanecen sin cambios funcionales.
 
-**Entrega:** publicar el repositorio y la experiencia en GitHub Pages. La pauta original también solicita un video de 30–60 segundos con el teléfono controlando el disparo; confirmar con el docente si ese entregable sigue siendo exigido.
+**Entrega:** publicar el repositorio y la experiencia en GitHub Pages. 
